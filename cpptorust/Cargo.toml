@@ -1,0 +1,9 @@
+[package]
+name = "cpptorust"
+version = "0.1.0"
+authors = ["Anne Ogborn <annie66us@yahoo.com>"]
+edition = "2018"
+
+[lib]
+name = "math"
+crate-type = ["dylib"]
